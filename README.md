@@ -24,6 +24,7 @@ It demonstrates **DOM manipulation** by allowing users to add, edit, and delete 
 ## 📂 Project Structure
 
 📦 DOM manipulation
+
 ┣ 📜 DOM_manipulation.html # Main HTML structure
 
 ┣ 📜 DOM_manipulation.css # Styling for the To-Do List
