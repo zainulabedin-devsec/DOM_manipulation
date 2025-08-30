@@ -36,7 +36,7 @@ It demonstrates **DOM manipulation** by allowing users to add, edit, and delete 
 ## ▶️ How to Run
 1. Clone this repository:
    
-   git clone https://github.com/<your-username>/todo-list-dom.git
+   git clone https://github.com/zainulabedin-devsec/DOM_manupilation.git
 
 
 📸 Demo (screenshots):
